@@ -1,0 +1,12 @@
+.venv
+__pycache__
+__pytest__
+
+*.pyc
+
+# Mac OS
+.DS_Store
+
+.archive
+
+.env
